@@ -14,7 +14,7 @@ class Student {
   String email;
   String phone;
   String faculty;
-  float gpa;
+  double gpa;
   bool isGraduated;
   bool hasLoans;
    
